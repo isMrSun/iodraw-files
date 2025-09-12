@@ -28,13 +28,13 @@
         <mxCell id="maGI-lPsqyRszZO828dK-238" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-205">
           <mxGeometry x="75" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-205" target="maGI-lPsqyRszZO828dK-247">
+        <mxCell id="maGI-lPsqyRszZO828dK-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-205" source="maGI-lPsqyRszZO828dK-220">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="15" y="15" as="sourcePoint" />
-            <mxPoint x="75" y="60" as="targetPoint" />
+            <mxPoint x="15" y="10" as="sourcePoint" />
+            <mxPoint x="75" y="70" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="75" y="15" />
-              <mxPoint x="15" y="50" />
+              <mxPoint x="75" y="10" />
+              <mxPoint x="15" y="45" />
             </Array>
           </mxGeometry>
         </mxCell>
