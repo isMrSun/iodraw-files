@@ -481,6 +481,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-220" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-205">
+          <mxGeometry width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-209" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-203">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
         </mxCell>
@@ -505,8 +508,8 @@
         <mxCell id="maGI-lPsqyRszZO828dK-216" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-213">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-220" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="550" width="15" height="60" as="geometry" />
+        <mxCell id="maGI-lPsqyRszZO828dK-238" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="580" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
