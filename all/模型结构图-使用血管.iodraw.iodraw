@@ -62,10 +62,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-18" value="Broadcast &amp;amp; Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="470" y="529" width="160" height="60" as="geometry" />
+          <mxGeometry x="470" y="529" width="160" height="41" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-19" value="Output Feature + PE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="490" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="610" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-25" value="Stem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="50" height="30" as="geometry" />
