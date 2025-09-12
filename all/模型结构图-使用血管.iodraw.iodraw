@@ -44,7 +44,7 @@
           <mxGeometry x="480" y="203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-15" value="Split Channels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-16" value="Generate H Pos Vec&lt;div&gt;Generate W Pos Vec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="370" width="120" height="60" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-18" value="Broadcast &amp;amp; Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="APLzyzv972cQzqCeSOxA-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="APLzyzv972cQzqCeSOxA-19" value="Output Feature + PE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
