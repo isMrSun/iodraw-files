@@ -228,14 +228,14 @@
             <mxPoint x="250" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="maGI-lPsqyRszZO828dK-67">
+        <mxCell id="maGI-lPsqyRszZO828dK-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="280" as="sourcePoint" />
-            <mxPoint x="510" y="270" as="targetPoint" />
+            <mxPoint x="155" y="350" as="sourcePoint" />
+            <mxPoint x="842.3191489361702" y="398" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="280" />
-              <mxPoint x="200" y="160" />
-              <mxPoint x="850" y="160" />
+              <mxPoint x="195" y="350" />
+              <mxPoint x="195" y="230" />
+              <mxPoint x="845" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
