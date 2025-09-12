@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HQZBr85VRHgfQUGlrD1B">
-    <mxGraphModel dx="1668" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,9 +341,6 @@
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-265" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; font-weight: 700;&quot;&gt;Lesion&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 15px; font-weight: 700; background-color: initial;&quot;&gt;Predict&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-293">
           <mxGeometry x="32.139999999999986" y="121.3080168776371" width="98.57" height="48.173839662447264" as="geometry" />
-        </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="Ig2gUn-TNrMMb2YUWK5v-293" source="Ig2gUn-TNrMMb2YUWK5v-262" target="Ig2gUn-TNrMMb2YUWK5v-264">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ig2gUn-TNrMMb2YUWK5v-293" source="Ig2gUn-TNrMMb2YUWK5v-264" target="Ig2gUn-TNrMMb2YUWK5v-265">
           <mxGeometry relative="1" as="geometry">
