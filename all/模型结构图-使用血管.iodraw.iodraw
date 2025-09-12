@@ -7,8 +7,11 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-1" value="Input Image (H×W×3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="APLzyzv972cQzqCeSOxA-2" value="Conv + Downsample (Stride 4)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="APLzyzv972cQzqCeSOxA-2" value="Conv + Downsample&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APLzyzv972cQzqCeSOxA-3" value="LayerNorm / BN (Norm)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
