@@ -196,7 +196,7 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-170" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.39964043293544205;endAngle=0.9952267833287348;strokeWidth=8;fillColor=#cce5ff;strokeColor=#FF9999;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="Ig2gUn-TNrMMb2YUWK5v-188" vertex="1">
           <mxGeometry width="34" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-193" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;dashed=1;dashPattern=8 8;arcSize=8;strokeColor=#CCFFE6;" parent="1" vertex="1">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-193" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;dashed=1;dashPattern=8 8;arcSize=8;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="339" y="657" width="411" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-194" value="Decoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
