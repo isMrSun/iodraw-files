@@ -205,8 +205,8 @@
         <mxCell id="maGI-lPsqyRszZO828dK-65" value="Adaptive&amp;nbsp;&lt;div&gt;Fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="318" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="307" width="50" height="82" as="geometry" />
+        <mxCell id="maGI-lPsqyRszZO828dK-66" value="DropPath&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="560" y="318" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-67" value="⊕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="680" y="330" width="40" height="40" as="geometry" />
