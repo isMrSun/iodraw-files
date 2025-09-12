@@ -71,6 +71,7 @@
             <Array as="points">
               <mxPoint x="75" y="15" />
               <mxPoint x="15" y="50" />
+              <mxPoint x="40" y="50" />
               <mxPoint x="75" y="50" />
               <mxPoint x="15" y="75" />
             </Array>
