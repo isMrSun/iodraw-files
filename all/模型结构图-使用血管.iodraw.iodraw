@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="APLzyzv972cQzqCeSOxA-1" value="&lt;div&gt;&amp;nbsp;输入图像&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(H x W x 3)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="APLzyzv972cQzqCeSOxA-1" value="Input Image (H×W×3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APLzyzv972cQzqCeSOxA-2" value="Input Image (H×W×3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
