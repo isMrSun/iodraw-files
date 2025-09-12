@@ -209,7 +209,7 @@
           <mxGeometry x="590" y="318" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-67" value="⊕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="820" y="328" width="40" height="40" as="geometry" />
+          <mxGeometry x="780" y="328" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="maGI-lPsqyRszZO828dK-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,9 +235,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-66" target="maGI-lPsqyRszZO828dK-67">
+        <mxCell id="maGI-lPsqyRszZO828dK-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-66">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="348" as="targetPoint" />
+            <mxPoint x="790" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
