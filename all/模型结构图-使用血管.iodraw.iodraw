@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HQZBr85VRHgfQUGlrD1B">
-    <mxGraphModel dx="675" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,6 +322,9 @@
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-278" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-weight: 700; text-wrap-mode: wrap;&quot;&gt;Cross Scale&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-weight: 700; text-wrap-mode: wrap; background-color: initial;&quot;&gt;Fusion&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="630" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-279" value="Vessel&amp;nbsp;&lt;div&gt;Decoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="920" y="711.47" width="129" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
