@@ -598,6 +598,9 @@
         <mxCell id="maGI-lPsqyRszZO828dK-296" value="Linear" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="336" y="597.13" width="54" height="54.75" as="geometry" />
         </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-298" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
