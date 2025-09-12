@@ -14,7 +14,7 @@
           <mxGeometry x="59" y="246.25" width="207.75" height="137.97" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-5" value="Preprocessed lmage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="58.99999999999998" y="210" width="140" height="30" as="geometry" />
+          <mxGeometry x="33.869999999999976" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-6" value="3 × H × W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="192.87999999999997" y="210" width="90" height="30" as="geometry" />
