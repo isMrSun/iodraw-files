@@ -508,7 +508,7 @@
         <mxCell id="maGI-lPsqyRszZO828dK-157" value="β" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="385.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-269" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="maGI-lPsqyRszZO828dK-269" value="" style="group;flipH=0;flipV=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="982" y="579" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-270" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-269">
