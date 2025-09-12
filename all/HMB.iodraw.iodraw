@@ -196,8 +196,8 @@
         <mxCell id="maGI-lPsqyRszZO828dK-65" value="Adaptive Fusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="318" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-66" value="Adaptive Fusion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="328" width="120" height="60" as="geometry" />
+        <mxCell id="maGI-lPsqyRszZO828dK-66" value="DropPath&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="318" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
