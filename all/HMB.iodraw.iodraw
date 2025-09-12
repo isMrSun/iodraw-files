@@ -870,10 +870,13 @@
           <mxGeometry x="447" y="558" width="108" height="24" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-440" value="BN" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="558" y="615" width="76" height="60" as="geometry" />
+          <mxGeometry x="544.5" y="606.5" width="76" height="33" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-441" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-419" target="maGI-lPsqyRszZO828dK-440">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-442" value="BN" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="620.5" y="613.88" width="76" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
