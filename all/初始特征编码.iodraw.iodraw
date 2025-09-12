@@ -15,8 +15,11 @@
         <mxCell id="uTJq-rAlXwkvCNVZeOOi-8" value="&amp;nbsp; 4× 4 Conv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="247.75" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5KXXkfeyi18DsDqhx0N7-28" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="305" width="94" height="95" as="geometry" />
+        <mxCell id="5KXXkfeyi18DsDqhx0N7-58" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="363" y="290" width="102" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="5KXXkfeyi18DsDqhx0N7-28" value="" style="group" vertex="1" connectable="0" parent="5KXXkfeyi18DsDqhx0N7-58">
+          <mxGeometry x="8" width="94" height="95" as="geometry" />
         </mxCell>
         <mxCell id="5KXXkfeyi18DsDqhx0N7-14" value="" style="group" vertex="1" connectable="0" parent="5KXXkfeyi18DsDqhx0N7-28">
           <mxGeometry x="4" width="90" height="90" as="geometry" />
@@ -102,8 +105,8 @@
         <mxCell id="5KXXkfeyi18DsDqhx0N7-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="5KXXkfeyi18DsDqhx0N7-9">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5KXXkfeyi18DsDqhx0N7-29" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="362" y="316" width="94" height="95" as="geometry" />
+        <mxCell id="5KXXkfeyi18DsDqhx0N7-29" value="" style="group" vertex="1" connectable="0" parent="5KXXkfeyi18DsDqhx0N7-58">
+          <mxGeometry y="11" width="94" height="95" as="geometry" />
         </mxCell>
         <mxCell id="5KXXkfeyi18DsDqhx0N7-30" value="" style="group" vertex="1" connectable="0" parent="5KXXkfeyi18DsDqhx0N7-29">
           <mxGeometry x="4" width="90" height="90" as="geometry" />
