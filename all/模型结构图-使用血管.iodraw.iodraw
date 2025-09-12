@@ -333,6 +333,9 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-260" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6FFCC;dashed=1;dashPattern=8 8;arcSize=8;strokeColor=#b46504;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-293">
           <mxGeometry width="162.88" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ig2gUn-TNrMMb2YUWK5v-293" source="Ig2gUn-TNrMMb2YUWK5v-262" target="Ig2gUn-TNrMMb2YUWK5v-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-262" value="Aux Heads" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-293">
           <mxGeometry x="31.430000000000007" y="9.083544303797453" width="98.57" height="39.43966244725739" as="geometry" />
         </mxCell>
