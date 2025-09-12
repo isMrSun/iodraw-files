@@ -344,10 +344,13 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-289" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-weight: 700;&quot;&gt;Cross Scale&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-weight: 700;&quot;&gt;Fusion&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="855" y="725" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-290" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-290" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=44.70588235294118;endSize=11.799999999999999;width=35.294117647058826;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="985" y="620" as="sourcePoint" />
             <mxPoint x="985" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
