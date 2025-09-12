@@ -783,46 +783,46 @@
           <mxGeometry x="360" y="558" width="36" height="36" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-410" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="48" y="820" width="90" height="90" as="geometry" />
+          <mxGeometry x="480" y="588" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-411" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-410">
-          <mxGeometry width="90" height="90" as="geometry" />
+          <mxGeometry width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-412" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-410">
-          <mxGeometry width="90" height="30" as="geometry" />
+          <mxGeometry width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-413" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-412">
-          <mxGeometry width="30" height="30" as="geometry" />
+          <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-414" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-412">
-          <mxGeometry x="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="20" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-415" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-412">
-          <mxGeometry x="60" width="30" height="30" as="geometry" />
+          <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-416" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-410">
-          <mxGeometry y="30" width="90" height="30" as="geometry" />
+          <mxGeometry y="20" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-417" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-416">
-          <mxGeometry width="30" height="30" as="geometry" />
+          <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-418" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-416">
-          <mxGeometry x="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="20" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-419" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-416">
-          <mxGeometry x="60" width="30" height="30" as="geometry" />
+          <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-420" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-410">
-          <mxGeometry y="60" width="90" height="30" as="geometry" />
+          <mxGeometry y="40" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-421" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-420">
-          <mxGeometry width="30" height="30" as="geometry" />
+          <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-422" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-420">
-          <mxGeometry x="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="20" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-423" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-420">
-          <mxGeometry x="60" width="30" height="30" as="geometry" />
+          <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-424" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="264" y="852" width="90" height="90" as="geometry" />
