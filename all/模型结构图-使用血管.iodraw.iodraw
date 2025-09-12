@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HQZBr85VRHgfQUGlrD1B">
-    <mxGraphModel dx="810" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,22 +323,25 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-278" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-weight: 700; text-wrap-mode: wrap;&quot;&gt;Cross Scale&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-weight: 700; text-wrap-mode: wrap; background-color: initial;&quot;&gt;Fusion&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="827" y="630" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="Ig2gUn-TNrMMb2YUWK5v-279" target="Ig2gUn-TNrMMb2YUWK5v-280">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-279" value="&amp;nbsp;Align Convs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="920" y="711.47" width="120" height="48.53" as="geometry" />
-        </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Ig2gUn-TNrMMb2YUWK5v-280" target="Ig2gUn-TNrMMb2YUWK5v-281">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-280" value="Cross-scale Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="905" y="827.58" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-281" value="Fuse Conv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="920" y="950" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ig2gUn-TNrMMb2YUWK5v-129" target="Ig2gUn-TNrMMb2YUWK5v-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-287" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="905" y="711.47" width="150" height="278.53" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-279" value="&amp;nbsp;Align Convs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#b46504;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-287">
+          <mxGeometry x="15" width="120" height="48.53" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-280" value="Cross-scale Attention" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#b46504;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-287">
+          <mxGeometry y="116.11000000000001" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-281" value="Fuse Conv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#b46504;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-287">
+          <mxGeometry x="15" y="238.52999999999997" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="Ig2gUn-TNrMMb2YUWK5v-287" source="Ig2gUn-TNrMMb2YUWK5v-279" target="Ig2gUn-TNrMMb2YUWK5v-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="Ig2gUn-TNrMMb2YUWK5v-287" source="Ig2gUn-TNrMMb2YUWK5v-280" target="Ig2gUn-TNrMMb2YUWK5v-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
