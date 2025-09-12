@@ -578,7 +578,7 @@
           <mxGeometry x="287.5" y="615.75" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-290" value="&lt;font face=&quot;Helvetica&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;+&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="381" width="20" height="20" as="geometry" />
+          <mxGeometry x="660" y="381" width="18" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
