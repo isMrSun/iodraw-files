@@ -46,8 +46,14 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-14" value="Input Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="203" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="APLzyzv972cQzqCeSOxA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-15" target="APLzyzv972cQzqCeSOxA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-15" value="Split Channels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="284" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APLzyzv972cQzqCeSOxA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-16" target="APLzyzv972cQzqCeSOxA-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-16" value="Generate H Pos Vec&lt;div&gt;Generate W Pos Vec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="366" width="120" height="60" as="geometry" />
