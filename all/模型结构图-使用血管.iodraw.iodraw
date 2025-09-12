@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-129" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Cross Scale&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Fusion&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCC99;dashed=1;dashPattern=8 8;arcSize=8;fontColor=#000000;strokeColor=#BD7000;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=18;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="899" y="640" width="164" height="362.62" as="geometry" />
+          <mxGeometry x="839" y="750" width="331" height="362.62" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-156" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="300" y="231.11" width="225" height="168.24" as="geometry" />
@@ -229,7 +229,7 @@
           <mxGeometry x="356.3082608695652" y="774" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-198" value="Vessel&amp;nbsp;&lt;div&gt;Decoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;dashed=1;dashPattern=8 8;arcSize=8;fontFamily=Times New Roman;fontSize=15;fontStyle=1;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="618" y="831.75" width="129" height="90" as="geometry" />
+          <mxGeometry x="569" y="831.75" width="129" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Times New Roman;fontSize=15;fontStyle=1" edge="1" parent="1" source="Ig2gUn-TNrMMb2YUWK5v-199" target="Ig2gUn-TNrMMb2YUWK5v-200">
           <mxGeometry relative="1" as="geometry" />
