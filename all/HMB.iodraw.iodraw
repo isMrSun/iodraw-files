@@ -577,8 +577,8 @@
         <mxCell id="maGI-lPsqyRszZO828dK-289" value="cat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="615.75" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-290" value="cat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="299.5" y="627.75" width="20" height="20" as="geometry" />
+        <mxCell id="maGI-lPsqyRszZO828dK-290" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;+&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="828" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
