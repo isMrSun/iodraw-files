@@ -926,7 +926,7 @@
         <mxCell id="maGI-lPsqyRszZO828dK-457" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-419" target="maGI-lPsqyRszZO828dK-440">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-460" value="3 × 3 DW Conv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="maGI-lPsqyRszZO828dK-460" value="3 × 3 PW Conv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="648" y="558" width="108" height="24" as="geometry" />
         </mxCell>
       </root>
