@@ -58,16 +58,10 @@
         <mxCell id="maGI-lPsqyRszZO828dK-216" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-213">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-247" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-213">
-          <mxGeometry x="75" y="15" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-246" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-213">
-          <mxGeometry y="15" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-203" source="maGI-lPsqyRszZO828dK-220" target="maGI-lPsqyRszZO828dK-247">
+        <mxCell id="maGI-lPsqyRszZO828dK-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-203" source="maGI-lPsqyRszZO828dK-220">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="15" y="10" as="sourcePoint" />
-            <mxPoint x="75" y="65" as="targetPoint" />
+            <mxPoint x="75" y="75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="75" y="15" />
               <mxPoint x="14" y="45" />
