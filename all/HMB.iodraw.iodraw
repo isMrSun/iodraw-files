@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="maGI-lPsqyRszZO828dK-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="45" y="295" width="102" height="106" as="geometry" />
+          <mxGeometry x="35" y="295" width="102" height="106" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-2" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-1">
           <mxGeometry x="8" width="94" height="95" as="geometry" />
@@ -182,10 +182,10 @@
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-61" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="56" y="265" width="30" height="30" as="geometry" />
+          <mxGeometry x="46" y="265" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-62" value="C × H × W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="415.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="35" y="415.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-63" target="maGI-lPsqyRszZO828dK-65">
           <mxGeometry relative="1" as="geometry" />
@@ -430,8 +430,8 @@
         <mxCell id="maGI-lPsqyRszZO828dK-148" value="C × H × W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="415.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-149" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="468" width="50" height="30" as="geometry" />
+        <mxCell id="maGI-lPsqyRszZO828dK-149" value="LayerNorm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="468" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
