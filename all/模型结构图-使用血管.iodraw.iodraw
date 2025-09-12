@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="APLzyzv972cQzqCeSOxA-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="90" y="110" width="630" height="560" as="geometry" />
+          <mxGeometry x="90" y="110" width="630" height="600" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-1" target="APLzyzv972cQzqCeSOxA-2">
           <mxGeometry relative="1" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry x="490" y="203" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-15" value="Split Channels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-16" value="Generate H Pos Vec&lt;div&gt;Generate W Pos Vec&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="346" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-17" value="Sin/Cos Encoding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-18" value="Broadcast &amp;amp; Concat&lt;div&gt;pos_h + pos_w&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="489" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-19" value="Output Feature + PE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
