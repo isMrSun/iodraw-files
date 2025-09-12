@@ -228,7 +228,7 @@
             <mxPoint x="250" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="maGI-lPsqyRszZO828dK-79" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="145" y="350" as="sourcePoint" />
             <mxPoint x="690" y="170" as="targetPoint" />
