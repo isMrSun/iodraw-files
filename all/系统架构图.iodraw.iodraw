@@ -1,0 +1,90 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="NRs7sEEt61vZ4L8QPkrK">
+    <mxGraphModel dx="1188" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NEinZSIfJaGZOxEDni2m-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-1" target="NEinZSIfJaGZOxEDni2m-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="180" />
+              <mxPoint x="125" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-1" target="NEinZSIfJaGZOxEDni2m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-1" target="NEinZSIfJaGZOxEDni2m-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-1" target="NEinZSIfJaGZOxEDni2m-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-1" value="&lt;p style=&quot;font-size: 14px;&quot; align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;基于异步爬虫的新闻采集与查询系统&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-2" target="NEinZSIfJaGZOxEDni2m-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-2" target="NEinZSIfJaGZOxEDni2m-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-2" value="数据检索模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="677" y="210" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-3" target="NEinZSIfJaGZOxEDni2m-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-3" target="NEinZSIfJaGZOxEDni2m-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-3" value="数据存储模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="292" y="210" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-4" target="NEinZSIfJaGZOxEDni2m-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-4" target="NEinZSIfJaGZOxEDni2m-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-4" value="数据展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;fontFamily=宋体;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="485" y="210" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-5" target="NEinZSIfJaGZOxEDni2m-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="NEinZSIfJaGZOxEDni2m-5" target="NEinZSIfJaGZOxEDni2m-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-5" value="数据采集模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-7" value="数据收集" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-8" value="数据清洗与数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-9" value="数据页面可视化展示" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="435" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-10" value="词云可视化" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="535" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-11" value="分布式新闻检索" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="727" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-12" value="数据库检索" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="627" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-24" value="数据库存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="242" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NEinZSIfJaGZOxEDni2m-25" value="检索引擎存储" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;horizontal=1;textDirection=vertical-rl;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="342" y="410" width="50" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
