@@ -52,8 +52,8 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-17" value="Sin/Cos Encoding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="APLzyzv972cQzqCeSOxA-18" value="Broadcast &amp;amp; Concat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="APLzyzv972cQzqCeSOxA-18" value="Broadcast &amp;amp; Concat&lt;div&gt;pos_h + pos_w&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-19" value="Output Feature + PE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="760" width="120" height="60" as="geometry" />
