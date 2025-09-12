@@ -70,10 +70,9 @@
             <mxPoint x="75" y="65" as="targetPoint" />
             <Array as="points">
               <mxPoint x="75" y="15" />
-              <mxPoint x="15" y="50" />
-              <mxPoint x="30" y="50" />
-              <mxPoint x="40" y="50" />
-              <mxPoint x="75" y="50" />
+              <mxPoint x="14" y="45" />
+              <mxPoint x="40" y="45" />
+              <mxPoint x="75" y="45" />
               <mxPoint x="15" y="75" />
             </Array>
           </mxGeometry>
