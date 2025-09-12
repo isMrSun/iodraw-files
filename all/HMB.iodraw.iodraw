@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram id="IWd4JPSb-LzJ_JeRX8qB" name="第 1 页">
-    <mxGraphModel dx="223" dy="114" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="385" dy="197" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,12 +21,6 @@
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-208" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-205">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-220" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-205">
-          <mxGeometry width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-238" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-205">
-          <mxGeometry x="75" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-209" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-203">
           <mxGeometry y="30" width="90" height="30" as="geometry" />
@@ -52,9 +46,9 @@
         <mxCell id="maGI-lPsqyRszZO828dK-216" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-213">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-203" source="maGI-lPsqyRszZO828dK-220">
+        <mxCell id="maGI-lPsqyRszZO828dK-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-203">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="15" y="10" as="sourcePoint" />
+            <mxPoint x="15" y="15" as="sourcePoint" />
             <mxPoint x="75" y="75" as="targetPoint" />
             <Array as="points">
               <mxPoint x="75" y="15" />
@@ -513,6 +507,60 @@
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-157" value="β" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="385.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-269" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="982" y="579" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-270" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-269">
+          <mxGeometry width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-271" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-269">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-272" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-271">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-273" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-271">
+          <mxGeometry x="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-274" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-271">
+          <mxGeometry x="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-275" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-269">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-276" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-275">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-277" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-275">
+          <mxGeometry x="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-278" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-275">
+          <mxGeometry x="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-279" value="" style="group" vertex="1" connectable="0" parent="maGI-lPsqyRszZO828dK-269">
+          <mxGeometry y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-280" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-279">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-281" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-279">
+          <mxGeometry x="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-282" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="maGI-lPsqyRszZO828dK-279">
+          <mxGeometry x="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="maGI-lPsqyRszZO828dK-283" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="maGI-lPsqyRszZO828dK-269">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="15" as="sourcePoint" />
+            <mxPoint x="75" y="75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="75" y="15" />
+              <mxPoint x="14" y="45" />
+              <mxPoint x="75" y="45" />
+              <mxPoint x="15" y="75" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
