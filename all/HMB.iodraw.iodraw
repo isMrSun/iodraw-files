@@ -562,8 +562,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-285" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="156" y="864" width="120" height="60" as="geometry" />
+        <mxCell id="maGI-lPsqyRszZO828dK-285" value="Mamba2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="864" width="84" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
