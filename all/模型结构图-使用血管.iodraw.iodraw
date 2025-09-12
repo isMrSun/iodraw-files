@@ -318,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-277" value="&lt;div style=&quot;font-size: 18px; text-wrap-mode: wrap;&quot;&gt;CrossScale&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Fusion&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="579.9982608695652" y="605.82" width="160" height="40" as="geometry" />
+          <mxGeometry x="839.9982608695652" y="640" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
