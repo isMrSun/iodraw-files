@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="270" width="207.75" height="137.97" as="geometry" />
         </mxCell>
         <mxCell id="uTJq-rAlXwkvCNVZeOOi-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="299" width="80" height="91" as="geometry" />
+          <mxGeometry x="349" y="287" width="80" height="91" as="geometry" />
         </mxCell>
         <mxCell id="uTJq-rAlXwkvCNVZeOOi-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="uTJq-rAlXwkvCNVZeOOi-2">
           <mxGeometry x="12.3943661971831" width="67.60563380281691" height="78" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry y="13" width="67.60563380281691" height="78" as="geometry" />
         </mxCell>
         <mxCell id="uTJq-rAlXwkvCNVZeOOi-8" value="&amp;nbsp; 4× 4 Conv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="240" y="299" width="90" height="30" as="geometry" />
+          <mxGeometry x="247.75" y="310" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
