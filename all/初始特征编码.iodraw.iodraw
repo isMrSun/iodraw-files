@@ -25,8 +25,8 @@
         <mxCell id="uTJq-rAlXwkvCNVZeOOi-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="uTJq-rAlXwkvCNVZeOOi-2">
           <mxGeometry y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uTJq-rAlXwkvCNVZeOOi-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="178" width="50" height="30" as="geometry" />
+        <mxCell id="uTJq-rAlXwkvCNVZeOOi-8" value="Conv&amp;nbsp; 4× 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="178" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
