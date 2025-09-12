@@ -171,7 +171,7 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="Ig2gUn-TNrMMb2YUWK5v-130" source="Ig2gUn-TNrMMb2YUWK5v-140" target="Ig2gUn-TNrMMb2YUWK5v-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-140" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;HybridMamba&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Block * N&lt;/span&gt;&lt;span style=&quot;font-size: 12.5px;&quot;&gt;3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;fontFamily=Times New Roman;strokeColor=none;fontStyle=1;rotation=0;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-130">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-140" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Hybrid Mamba&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Block * N&lt;/span&gt;&lt;span style=&quot;font-size: 12.5px;&quot;&gt;3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;fontFamily=Times New Roman;strokeColor=none;fontStyle=1;rotation=0;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-130">
           <mxGeometry x="76.06000000000002" y="230" width="110" height="71.12" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-141" value="PatchMerging" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;rotation=-90;fillColor=#d5e8d4;strokeColor=none;fontStyle=1" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-130">
