@@ -81,7 +81,7 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-241" value="" style="group;fillColor=default;fillStyle=auto;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540.905" y="130" width="629.095" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=8 8;arcSize=8;fillStyle=auto;gradientColor=none;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-241">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66B2FF;dashed=1;dashPattern=8 8;arcSize=8;fillStyle=auto;gradientColor=none;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-241">
           <mxGeometry x="19.095000000000027" width="610" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-94" value="predict" style="group;rotation=0;" vertex="1" connectable="0" parent="Ig2gUn-TNrMMb2YUWK5v-241">
@@ -205,7 +205,7 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-170" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.39964043293544205;endAngle=0.9952267833287348;strokeWidth=8;fillColor=#cce5ff;strokeColor=#FF9999;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-188">
           <mxGeometry width="34" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-193" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-193" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=8 8;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="339" y="657" width="411" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-194" value="Decoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
