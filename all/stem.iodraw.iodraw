@@ -26,7 +26,7 @@
           <mxGeometry x="45" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-5" value="Initial Feature&lt;div style=&quot;font-size: 15px;&quot;&gt;B × H/4 × W/4 × C&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="APLzyzv972cQzqCeSOxA-27">
-          <mxGeometry x="45" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="37.5" y="380" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="APLzyzv972cQzqCeSOxA-27" source="APLzyzv972cQzqCeSOxA-1" target="APLzyzv972cQzqCeSOxA-2">
           <mxGeometry relative="1" as="geometry" />
