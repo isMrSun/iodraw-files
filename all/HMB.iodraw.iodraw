@@ -230,10 +230,10 @@
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-79" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="349" as="sourcePoint" />
-            <mxPoint x="550" y="210" as="targetPoint" />
+            <mxPoint x="150" y="350" as="sourcePoint" />
+            <mxPoint x="550" y="211" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="290" />
+              <mxPoint x="200" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
