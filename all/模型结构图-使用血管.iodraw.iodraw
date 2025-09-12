@@ -16,8 +16,8 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-2" target="APLzyzv972cQzqCeSOxA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="APLzyzv972cQzqCeSOxA-2" value="Conv Downsample" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="140" y="263" width="160" height="60" as="geometry" />
+        <mxCell id="APLzyzv972cQzqCeSOxA-2" value="Conv Downsample LayerNorm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="95" y="263" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-3" target="APLzyzv972cQzqCeSOxA-4">
           <mxGeometry relative="1" as="geometry" />
