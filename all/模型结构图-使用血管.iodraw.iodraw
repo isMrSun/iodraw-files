@@ -40,7 +40,7 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-28" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380" y="194" width="260" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="APLzyzv972cQzqCeSOxA-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;arcSize=8;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="APLzyzv972cQzqCeSOxA-28">
+        <mxCell id="APLzyzv972cQzqCeSOxA-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;arcSize=8;fontSize=15;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="APLzyzv972cQzqCeSOxA-28">
           <mxGeometry width="260" height="400" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-14" value="Input Feature" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="APLzyzv972cQzqCeSOxA-28">
