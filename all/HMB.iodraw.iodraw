@@ -199,7 +199,7 @@
         <mxCell id="maGI-lPsqyRszZO828dK-64" value="Local Feature Enhancement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="385.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="maGI-lPsqyRszZO828dK-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-65" target="maGI-lPsqyRszZO828dK-66">
+        <mxCell id="maGI-lPsqyRszZO828dK-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="maGI-lPsqyRszZO828dK-65" target="maGI-lPsqyRszZO828dK-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="maGI-lPsqyRszZO828dK-65" value="Adaptive&amp;nbsp;&lt;div&gt;Fusion&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
