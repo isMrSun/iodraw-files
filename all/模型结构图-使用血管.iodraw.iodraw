@@ -43,8 +43,8 @@
         <mxCell id="APLzyzv972cQzqCeSOxA-14" value="Input Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="203" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="APLzyzv972cQzqCeSOxA-15" value="Input Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="APLzyzv972cQzqCeSOxA-15" value="Split Channels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
