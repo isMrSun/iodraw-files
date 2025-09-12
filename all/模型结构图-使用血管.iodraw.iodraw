@@ -78,10 +78,10 @@
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-268" value="Pseudo Vessel Mask" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-240">
           <mxGeometry x="57.88000000000005" y="205.31" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-241" value="" style="group;fillColor=none;fillStyle=auto;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-241" value="" style="group;fillColor=default;fillStyle=auto;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540.905" y="130" width="629.095" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDEDED;dashed=1;dashPattern=8 8;arcSize=8;fillStyle=auto;gradientColor=default;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-241">
+        <mxCell id="Ig2gUn-TNrMMb2YUWK5v-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;arcSize=8;fillStyle=auto;gradientColor=default;" vertex="1" parent="Ig2gUn-TNrMMb2YUWK5v-241">
           <mxGeometry x="19.095000000000027" width="610" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Ig2gUn-TNrMMb2YUWK5v-94" value="predict" style="group;rotation=0;" vertex="1" connectable="0" parent="Ig2gUn-TNrMMb2YUWK5v-241">
