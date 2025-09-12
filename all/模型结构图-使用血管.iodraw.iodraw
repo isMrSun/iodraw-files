@@ -50,22 +50,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-16" value="Generate H &amp;amp; W&amp;nbsp;Pos Vec" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="460" y="364" width="180" height="60" as="geometry" />
+          <mxGeometry x="460" y="364" width="180" height="36" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-17" target="APLzyzv972cQzqCeSOxA-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-17" value="Sin/Cos Encoding" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="490" y="447" width="120" height="33" as="geometry" />
+          <mxGeometry x="490" y="423.5" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontFamily=Times New Roman;" edge="1" parent="1" source="APLzyzv972cQzqCeSOxA-18" target="APLzyzv972cQzqCeSOxA-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-18" value="Broadcast &amp;amp; Concat" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="470" y="510" width="160" height="31" as="geometry" />
+          <mxGeometry x="470" y="480" width="160" height="31" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-19" value="Output Feature + PE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="470" y="570" width="160" height="30" as="geometry" />
+          <mxGeometry x="470" y="530" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="APLzyzv972cQzqCeSOxA-25" value="Stem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="130" y="120" width="50" height="30" as="geometry" />
