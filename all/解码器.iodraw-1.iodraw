@@ -540,9 +540,6 @@
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-113" value="&lt;pre style=&quot;color: rgb(8, 8, 8); text-align: left; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 10.5pt;&quot;&gt;vessel prob&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="334.37" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P_LmwKYHXRE-zXHhwqLg-114" value="H/4 × W/4 × C&lt;sub&gt;out&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="96" y="448" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
