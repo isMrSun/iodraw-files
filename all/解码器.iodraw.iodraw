@@ -188,7 +188,7 @@
           <mxGeometry x="86" y="438" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-Zr5JhxBKcd_nMklac5U-62" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="280" y="186.5" width="180" height="133.5" as="geometry" />
+          <mxGeometry x="280" y="187.5" width="170" height="133.5" as="geometry" />
         </mxCell>
         <mxCell id="-Zr5JhxBKcd_nMklac5U-63" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:10.5pt;&quot;&gt;vessel decoder&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="284" y="200" width="130" height="30" as="geometry" />
