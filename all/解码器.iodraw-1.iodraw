@@ -1035,7 +1035,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-285" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="696.25" width="56" height="37.5" as="geometry" />
+          <mxGeometry x="670" y="692.5" width="56" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
