@@ -552,6 +552,9 @@
             <mxPoint x="822" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-119" value="&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 10.5pt; background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Vessel Aware &lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-size: 10.5pt; background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Attention&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;arcSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="294" y="410" width="136" height="91.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
