@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="QXlgKgv0ySK5EwdkQW2F">
-    <mxGraphModel dx="1101" dy="143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1256,6 +1256,30 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="810" as="sourcePoint" />
             <mxPoint x="540" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-366" value="CBR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="229" width="56" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-367" value="Conv&amp;nbsp;&amp;nbsp;&lt;div style=&quot;font-size: 15px;&quot;&gt;BatchNorm2d&amp;nbsp;&amp;nbsp;&lt;div style=&quot;font-size: 15px;&quot;&gt;ReLU&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="842" y="209" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-368" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="792" y="244" as="sourcePoint" />
+            <mxPoint x="832" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-369" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="284.88" width="56" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-370" value="Conv&amp;nbsp;&amp;nbsp;&lt;div style=&quot;font-size: 15px;&quot;&gt;BatchNorm2d&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Sigmoid&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="842" y="269" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-371" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;fontFamily=Times New Roman;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="792" y="304" as="sourcePoint" />
+            <mxPoint x="832" y="304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
