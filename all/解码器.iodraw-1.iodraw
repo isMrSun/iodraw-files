@@ -290,6 +290,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="294" y="214" width="170" height="101.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-11" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:10.5pt;&quot;&gt;vessel decoder&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="294" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-12" value="CBR * 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="247" width="56" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="395" y="245" width="40" height="39.88" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-14" value="Conv&lt;sub&gt; 1×1&amp;nbsp;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353" y="267" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
