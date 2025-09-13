@@ -1000,10 +1000,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-276" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="533" y="766" width="40" height="39.88" as="geometry" />
+          <mxGeometry x="524" y="766" width="40" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-277" value="Conv&lt;sub&gt; 1×1&amp;nbsp;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="519" y="801.25" width="73" height="37" as="geometry" />
+          <mxGeometry x="508.5" y="801" width="73" height="37" as="geometry" />
         </mxCell>
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=40;entryDy=24.94;entryPerimeter=0;" edge="1" parent="1" source="P_LmwKYHXRE-zXHhwqLg-122" target="P_LmwKYHXRE-zXHhwqLg-276">
           <mxGeometry relative="1" as="geometry" />
@@ -1013,7 +1013,7 @@
             <mxPoint x="420" y="700" as="sourcePoint" />
             <mxPoint x="470" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="660" />
+              <mxPoint x="590" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
