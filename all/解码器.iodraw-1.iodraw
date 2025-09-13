@@ -211,7 +211,7 @@
             <mxPoint x="573" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Zr5JhxBKcd_nMklac5U-68" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:10.5pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="-Zr5JhxBKcd_nMklac5U-68" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:10.5pt;&quot;&gt;sigmoid&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="459.25" y="237.5" width="102.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-Zr5JhxBKcd_nMklac5U-117" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-3" value="Conv&lt;sub&gt; 1×1&amp;nbsp;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="343" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="158" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
