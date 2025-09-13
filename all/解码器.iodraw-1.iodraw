@@ -1017,6 +1017,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_LmwKYHXRE-zXHhwqLg-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-282" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="601" y="705" width="20" height="20" as="geometry" />
         </mxCell>
@@ -1029,8 +1034,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P_LmwKYHXRE-zXHhwqLg-285" value="CBR * 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="782.25" width="56" height="37.5" as="geometry" />
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-285" value="CBS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="696.25" width="56" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
