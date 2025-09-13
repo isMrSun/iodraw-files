@@ -1005,6 +1005,9 @@
         <mxCell id="P_LmwKYHXRE-zXHhwqLg-277" value="Conv&lt;sub&gt; 1×1&amp;nbsp;&lt;/sub&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="572" y="801.25" width="73" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=40;entryDy=24.94;entryPerimeter=0;" edge="1" parent="1" source="P_LmwKYHXRE-zXHhwqLg-122" target="P_LmwKYHXRE-zXHhwqLg-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
