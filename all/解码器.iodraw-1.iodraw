@@ -1060,8 +1060,8 @@
             <mxPoint x="640" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P_LmwKYHXRE-zXHhwqLg-295" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="895" y="758" width="50" height="30" as="geometry" />
+        <mxCell id="P_LmwKYHXRE-zXHhwqLg-295" value="atte" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="758" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
