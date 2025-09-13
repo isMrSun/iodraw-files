@@ -207,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-Zr5JhxBKcd_nMklac5U-68" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:10.5pt;&quot;&gt;sigmoid&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="459.25" y="237.5" width="102.5" height="35" as="geometry" />
+          <mxGeometry x="475.25" y="238.25" width="70.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-Zr5JhxBKcd_nMklac5U-117" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="573" y="210" width="90" height="90" as="geometry" />
