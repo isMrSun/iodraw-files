@@ -191,7 +191,7 @@
           <mxGeometry x="350" y="160" width="400" height="190" as="geometry" />
         </mxCell>
         <mxCell id="-Zr5JhxBKcd_nMklac5U-63" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:10.5pt;&quot;&gt;vessel decoder&lt;/pre&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="130" height="70" as="geometry" />
+          <mxGeometry x="360" y="170" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
